@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+
+@font-face {
+    font-family: 'lovelight';
+    src: url('./assets/Fonts/LoveLight-Regular.ttf');
+    /* /Users/blackulv/Documents on Mac /Maka/UI/maka-store/src/assets/Fonts/LoveLight-Regular.ttf */
+}
